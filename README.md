@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   </a>
 </span>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/NourMellal03?style=social)](https://twitter.com/NourMellal03)
+
+
 
 ## STATISTICS
 
