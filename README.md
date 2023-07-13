@@ -21,8 +21,11 @@ Here are some ideas to get you started:
   </a>
 </span>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/NourMellal03?style=social)](https://twitter.com/NourMellal03)
-
+<span align="left">
+  <a href="https://twitter.com/NourMellal03">
+    <img src="https://img.shields.io/twitter/follow/NourMellal03" />
+  </a>
+</span>
 
 
 ## STATISTICS
