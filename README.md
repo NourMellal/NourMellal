@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contact me in
+<span align="left">
+  <a href="https://www.linkedin.com/in/nour-mellal-2a80b527b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</span>
+
+
 ## STATISTICS
 
 ![NourMellal’ GitHub stats](https://github-readme-stats.vercel.app/api?username=NourMellal&theme=dark&show_icons=true&count_private=true)
